@@ -1,0 +1,12 @@
+langchain
+langchain-community
+transformers
+torch
+sentence-transformers
+pymupdf
+unstructured
+markdown
+chromadb
+langchain-huggingface
+langchain-chroma
+langchain-openai
